@@ -1,0 +1,29 @@
+{
+  "name": "cluster-multithreading",
+  "version": "1.0.0",
+  "description": "Testing for cluster module and multithreading ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithil-coffeebeans/cluster-multithreading.git"
+  },
+  "keywords": [
+    "multi-threading",
+    "cluster",
+    "worker",
+    "threads"
+  ],
+  "author": "Nithil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nithil-coffeebeans/cluster-multithreading/issues"
+  },
+  "homepage": "https://github.com/Nithil-coffeebeans/cluster-multithreading#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sharp": "^0.33.5"
+  }
+}
